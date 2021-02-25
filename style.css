@@ -20,14 +20,14 @@ body {
 
 #top{
     position: absolute;
-    top: -90%;
-    left: -25%;
+    top: -80%;
+    left: -20%;
 }
 
 #bottom{
     position: absolute;
     bottom: -100% ;
-    right: -20%;
+    right: -15%;
 }
 
 
@@ -41,8 +41,8 @@ body {
 }
 
 .card{
-    width: 300px;
-    height: 350px;
+    width: 340px;
+    height: 370px;
     background: #fff;
     border-radius: 12px;
     overflow: hidden;
@@ -60,8 +60,8 @@ body {
 }
 
 .portrait{
-    width: 90px;
-    height: 90px;
+    width: 106px;
+    height: 106px;
     background-image: url("images/image-victor.jpg");
     background-size: cover;
     background-position: center;
@@ -75,7 +75,7 @@ body {
 }
 
 .infoProfil{
-    margin: 60px auto;
+    margin: 80px auto 60px;
     text-align: center;
 
 }
@@ -97,7 +97,7 @@ body {
 
 }
 ul{
-    margin: 70px auto 0;
+    margin: 30px auto 0;
     text-align: center;
 
 }
