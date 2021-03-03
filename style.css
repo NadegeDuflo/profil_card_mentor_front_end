@@ -15,6 +15,9 @@ body {
     background-color: hsl(185, 75%, 39%);
     font-family: 'Kumbh Sans', sans-serif;
     font-size: 1rem;
+    /* background: url(images/bg-pattern-top.svg) no-repeat, url(images/bg-pattern-bottom.svg) no-repeat;
+    background-color: var(--background-color);
+    background-position: -80% 170%, 170% -105%; */
 
 }
 
@@ -104,6 +107,7 @@ ul{
 li {
     width: 70px;
     display: inline-block;
+    list-style: none;
 
 }
 h2{
